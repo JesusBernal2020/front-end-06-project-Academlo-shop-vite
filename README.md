@@ -33,7 +33,7 @@ The core functionality of the project is completed, but continuous improvements 
 
 ## Project Access
 
-You can access the deployed project via this [Academlo Shop](https://weather-app-jbx.netlify.app). Additionally, you have the option to clone the project, install the necessary packages using `npm install`, and run it using `npm run dev`.
+You can access the deployed project via this [Academlo Shop](https://academlo-shop-v2.netlify.app). Additionally, you have the option to clone the project, install the necessary packages using `npm install`, and run it using `npm run dev`.
 
 ## Developers
 
